@@ -19,6 +19,7 @@ namespace LinQSession1
 
             #endregion
 
+
             #region 2- Find all products that are in stock and cost more than 3.00 per unit
 
 
