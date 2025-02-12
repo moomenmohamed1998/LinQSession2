@@ -13,7 +13,7 @@ namespace LinQSession1
 
             #region LINQ - Restriction Operators
 
-            #region 1- Find all products that are out of stock .
+            #region 1- Find all products that are out of stock.
 
             //var Result = ProductList.Where(P => P.UnitsInStock == 0);
 
